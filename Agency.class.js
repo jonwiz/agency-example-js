@@ -45,7 +45,7 @@ Agency = {
 			return false;
 		}
 	},
-	author: 'NetHire Inc',
+	author: 'Company Inc',
 	version: '1.0',
 	Page: {},
 	Validator: {},
